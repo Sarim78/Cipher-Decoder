@@ -46,25 +46,3 @@ Sample ciphers are included in the `examples/` folder.
 Use them to test the tool and practice cracking ciphers!
 ```bash
 examples/sample_ciphers.txt
-
----
-
-## How does the Caesar Cipher work?
-
-Every letter in your message gets shifted forward or backward by a number called the key.
-
-```
-"HELLO" with key 3 -> "KHOOR"
-H -> K
-E -> H
-L -> O
-L -> O
-O -> R
-```
-
-To decrypt, you just shift in the opposite direction.
-
-Since there are only 26 possible keys, you can try all of them to crack it.
-This is called a brute force attack.
-
----
