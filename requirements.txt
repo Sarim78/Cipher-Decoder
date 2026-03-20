@@ -1,0 +1,24 @@
+# HOW TO USE:
+# Run python caesar.py
+# Pick option 2 (Decrypt) or 3 (Brute Force)
+# Paste any ciphertext below and enter the shift key
+
+# Sample 1 -- Shift 3
+KHOOR ZRUOG
+# Answer: HELLO WORLD
+
+# Sample 2 -- Shift 7
+JYFWAVNYHWOF PZ MVU
+# Answer: CRYPTOGRAPHY IS FUN
+
+# Sample 3 -- Shift 13 (also known as ROT13)
+ARIRE TBAAN TVIR LBH HC
+# Answer: NEVER GONNA GIVE YOU UP
+
+# Sample 4 -- Shift 1
+TUBZ TBGF POMJOF
+# Answer: STAY SAFE ONLINE
+
+# Sample 5 -- Shift 20
+YZNURUF BUGOVEX
+# Answer: ETHICAL HACKING
