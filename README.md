@@ -46,3 +46,8 @@ Sample ciphers are included in the `examples/` folder.
 Use them to test the tool and practice cracking ciphers!
 ```bash
 examples/sample_ciphers.txt
+```
+---
+## License
+ 
+MIT
